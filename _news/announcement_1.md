@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812) at ICCV 2023 poster session!
+Presented [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812) poster at ICCV 2023!
