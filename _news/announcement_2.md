@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Code release for paper [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812)
+Released code for paper [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812).
