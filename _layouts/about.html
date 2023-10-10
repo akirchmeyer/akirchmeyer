@@ -34,6 +34,11 @@ layout: default
               {{ page.profile.more_info }}
             </div>
             {%- endif %}
+            {%- if page.profile.more_info_social %}
+            <div class="navbar-brand social">
+              {% include social.html %}
+            </div>
+            {%- endif %}
           </div>
           {%- endif %}
 
@@ -55,7 +60,7 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications and projects</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Research</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
