@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Released code for our work [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812).
+Released code for [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812).
