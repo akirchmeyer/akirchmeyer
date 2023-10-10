@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-10-04 14:30:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812) at ICCV 2023 poster session!
