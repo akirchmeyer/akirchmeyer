@@ -12,9 +12,9 @@ profile:
     <p>akirchme[at]cs.cmu.edu</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hello! I am a Master's Student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak). Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) Master's degree at [Ecole Polytechnique](https://www.polytechnique.edu) and worked with [Prof. Maks Ovsjanikov](https://www.lix.polytechnique.fr/~maks/). 
