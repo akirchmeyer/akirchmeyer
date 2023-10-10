@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812) accepted at ICCV 2023!
+Our work [Convolutional Networks with Oriented 1D Kernels](https://arxiv.org/abs/2309.15812) was accepted at ICCV 2023!

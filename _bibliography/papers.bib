@@ -5,11 +5,18 @@
 
 @article{kirchmeyer2023convolutional,
   abbr={iccv},
+  publisher=iccv,
   title={Convolutional Networks with Oriented 1D Kernels},
   author={Kirchmeyer, Alexandre and Deng, Jia},
-  journal={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  journal={IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2023},
-  publisher=iccv,
   preview={oriented-1d.png},
+  abstract={In computer vision, 2D convolution is arguably the most important operation performed by a ConvNet. Unsurprisingly, it has been the focus of intense software and hardware optimization and enjoys highly efficient implementations. In this work, we ask an intriguing question: can we make a ConvNet work without 2D convolutions? Surprisingly, we find that the answer is yes -- we show that a ConvNet consisting entirely of 1D convolutions can do just as well as 2D on ImageNet classification. Specifically, we find that one key ingredient to a high-performing 1D ConvNet is oriented 1D kernels: 1D kernels that are oriented not just horizontally or vertically, but also at other angles. Our experiments show that oriented 1D convolutions can not only replace 2D convolutions but also augment existing architectures with large kernels, leading to improved accuracy with minimal FLOPs increase. A key contribution of this work is a highly-optimized custom CUDA implementation of oriented 1D kernels, specialized to the depthwise convolution setting. Our benchmarks demonstrate that our custom CUDA implementation almost perfectly realizes the theoretical advantage of 1D convolution: it is faster than a native horizontal convolution for any arbitrary angle. Code is available at this https URL.},
+  code={https://github.com/princeton-vl/Oriented1D},
+  pdf={https://arxiv.org/pdf/2309.15812.pdf},
+  poster={https://drive.google.com/file/d/1qE5Q-mXm7_jRDi2J_MMMTWVbMv1xZ2bR/view?usp=drive_link},
   selected={true}
+}
+
+@article{
 }
