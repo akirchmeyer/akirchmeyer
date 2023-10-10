@@ -3,7 +3,7 @@
 
 @article{kirchmeyer2023convolutional,
   title={Convolutional Networks with Oriented 1D Kernels},
-  author={Kirchmeyer A., Deng J.},
+  author={Kirchmeyer A. and Deng J.},
   journal={IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2023},
   preview={oriented-1d.png},
@@ -14,14 +14,42 @@
   selected={true}
 }
 
-@article{concept2022mmml,
-  title={Concept Learning and Understanding Final Report},
-  author={Kirchmeyer A., Khisti A., Kulkarni A., Pratik J.},
+@article{sparsemultiview2023,
+  title={3D Reconstruction from Single-view Image and Depthstillation},
+  author={Kirchmeyer A. and Duggal S. and Pathak D.},
   year={2023},
+  journal={Independent Study Spring 2023},
+  abstract={Text-to-3D methods have made significant strides in the past year, by leveraging the power of diffusion models to optimize the representation of 3D shapes conditioned on a text prompt. These methods can be used for 3D asset creation and find applications in the animation and gaming industries. Current state-of-the-art open-source methods have difficulty getting cross-view consistency, leading to inconsistent depths and the so-called multiple Janus head problem. To tackle this challenge, we introduce a diffusion model trained on novel view synthesis and conditioned on previous views. To overcome the lack of 3D data, we design our approach to be category-free by generating sparse novel views of the input image and augmenting these views with inpainting using diffusion models.},
+  code={https://github.com/akirchmeyer/art3d-sparse_multiview},
+  pdf={https://docs.google.com/presentation/d/1nN2EoJEXSNonhgxA30cSw9lhkN2ivtb3sCAXZI5mvL4/edit?usp=sharing},
+  preview={sparse-3d.png},
+  selected={true}
+}
+
+@article{concept2022mmml,
+  title={Multi-Modal Concept Learning and Understanding},
+  author={Kirchmeyer A. and others},
+  year={2022},
   journal={CMU 11-777 Multi-Modal Machine Learning Fall 2022 Course},
   abstract={Recent developments, especially in transformer-based models, have led to impressive progress on multimodal tasks such as visual question-answering. However, it is still unclear whether these large pretrained models know the concepts needed to reason about the problem and whether they can combine these concepts to produce predictions instead of simply relying on surface patterns in the data. We study the performance of multimodal models, specifically ViLT, on VQA dataset Visual7W, and implement 3 approaches through the lens of our concept-driven framework. We find that concept information can be useful as auxiliary information via multitask learning, their latent representations can be useful in uncovering latent concepts, and causal generative augmentation of images can increase the robustness of ViLT towards conceptual variations.},
   code={https://github.com/pratikmjoshi/multimodal_concepts},
   pdf={https://drive.google.com/file/d/1BDvdLbdFlpDwyMvQUCTDna8wW49ro7wh/view?usp=drive_link},
+  poster={https://drive.google.com/file/d/10KHjNjW9icpFvqYUz4zvP2XlvBOTA937/view?usp=sharing},
   preview={concept-learning.png},
   selected={true}
 }
+
+
+
+@article{difnet2022inf515,
+  title={Shape Correspondence using Hyper-networks and SDFs},
+  author={Kirchmeyer A. and Ovsjanikov M.},
+  year={2021},
+  abstract={The goal of this research project is to study the use of hyper-networks and implicit surface representations for the problem of shape correspondence. In particular we analyze the effectiveness of the Microsoft DIF-Net architecture for non-rigid shape correspondence and introduce a hybrid design to improve the capabilities of this model.},
+  journal={Ecole Polytechnique Independent Study Fall 2021},
+  pdf={https://drive.google.com/file/d/1ms-dnfc2knMQPDNpv9kw2NZ_8U7IBGoh/view?usp=sharing},
+  code={https://bitbucket.org/akirchmeyer/difnet-inf515},
+  preview={difnet.png},
+  selected={true}
+}
+//  poster={https://drive.google.com/file/d/1Da-vuOdOwgUQOi_d5JeVpWw-sWEsA_4C/view?usp=sharing},
