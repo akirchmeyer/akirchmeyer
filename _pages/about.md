@@ -21,7 +21,7 @@ Hello! I am a Master's Student in Machine Learning at [Carnegie Mellon Universit
 
 In 2022, I interned at the [Princeton Vision and Learning Lab](https://pvl.cs.princeton.edu), and worked with [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) on finding more efficient deep learning architectures for Computer Vision. 
 
-I am primarily interested in topics related to perception and generalization, with a focus on 2D/3D scene understanding and vision-language models. 
+I am primarily interested in topics related to perception and generalization. In particular I am interested in learning better representations for 2D/3D scene understanding and exploring large-scale vision-language models. 
 
 <!---
 My research interests lie at at the intersection of computer vision and artificial intelligence, . In particular, I am interested in 2D/3D scene understanding, self-supervised learning, multimodal machine learning in topics related to generalization and perception, with a focus on multimodal machine learning and 3D computer vision. 
