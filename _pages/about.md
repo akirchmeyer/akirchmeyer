@@ -21,7 +21,7 @@ Hello! I am a Master's Student in Machine Learning at [Carnegie Mellon Universit
 
 In 2022, I interned at the [Princeton Vision and Learning Lab](https://pvl.cs.princeton.edu), and worked with [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) on finding more efficient deep learning architectures for Computer Vision. 
 
-At Ecole Polytechnique, I participated in the ACM ICPC SWERC 2020/2021 competition as reserve member, our team EP Epsilon [ranked 4th / 107](https://swerc.eu/2020/theme/scoreboard/index.html). In high school, I was an active competitive programmer, I achieved [USACO Platinum](http://www.usaco.org/current/data/dec16_gold_results.html) level, (ranked 8th)[https://orac.amt.edu.au/fario/fario17results.html] at the French-Australian Regional Olympiad and coached for the French [Algorea](https://algorea.org) competition. 
+At Ecole Polytechnique, I participated in the ACM ICPC SWERC 2020/2021 competition as reserve member, our team EP Epsilon [ranked 4th / 107](https://swerc.eu/2020/theme/scoreboard/index.html). In high school, I was an active competitive programmer, I achieved [USACO Platinum](http://www.usaco.org/current/data/dec16_gold_results.html) level, [ranked 8th](https://orac.amt.edu.au/fario/fario17results.html) at the French-Australian Regional Olympiad and coached for the French [Algorea](https://algorea.org) competition. 
 
 I am primarily interested in topics related to computer vision and architecture design. In particular I am excited about learning better representations for 2D/3D scene understanding and exploring large-scale vision-language models. 
 
