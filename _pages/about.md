@@ -17,13 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a research intern at [Cartesia](https://cartesia.ai/) training multimodal foundation models using state-space models. I just finished a Master's degree in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak). 
-
-I am interested in topics related to reasoning, deep learning architectures and multimodal ML. In particular I am excited about exploring deep learning architectures with better reasoning inductive biases and training with heteregoneous modalities.
+Hello! I am a research intern at [Cartesia](https://cartesia.ai/) working on multimodal foundation models using state-space models. I just finished a Master's degree in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak) and studied generative models and deep learning architectures.
+I am interested in topics related to reasoning and multimodal ML. In particular I am excited about exploring deep learning architectures with better reasoning inductive biases.
 
 Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) Master's degree at [Ecole Polytechnique](https://www.polytechnique.edu), majoring in Mathematics and Computer Science. In 2022, I interned at the [Princeton Vision and Learning Lab](https://pvl.cs.princeton.edu), and worked with [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) on finding more efficient deep learning architectures.
-
-
 
 I love problem solving and competitive programming: I was reserve member of the team that [ranked 4th](https://swerc.eu/2020/theme/scoreboard/index.html) in the ACM ICPC Europe Regional competition (SWERC) in 2020/2021, I am in the [top 3%](https://www.mathraining.be/users/363) of a Belgian IMO preparation website, [achieved](http://www.usaco.org/current/data/dec16_gold_results.html) USACO Platinum level, [ranked 8th](https://orac.amt.edu.au/fario/fario17results.html) at the French-Australian Regional Informatics Olympiad (FARIO) and coached for the French [Algorea](https://algorea.org) national algorithmics competition. 
 
