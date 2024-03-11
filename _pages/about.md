@@ -19,9 +19,9 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! I am a research intern at [Cartesia](https://cartesia.ai/) training multimodal foundation models using state-space models. I just finished a Master's degree in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak). 
 
-I am interested in topics related to deep learning architectures, multimodal ML and reasoning. In particular I am excited about exploring deep learning architectures with better reasoning inductive biases and training with heteregoneous modalities.
+I am interested in topics related to reasoning, deep learning architectures and multimodal ML. In particular I am excited about exploring deep learning architectures with better reasoning inductive biases and training with heteregoneous modalities.
 
-Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) Master's degree at [Ecole Polytechnique](https://www.polytechnique.edu), majoring in Mathematics and Computer Science and worked with [Prof. Maks Ovsjanikov](https://www.lix.polytechnique.frx/~maks/) on the topic of non-rigid 3D shape correspondence. In 2022, I interned at the [Princeton Vision and Learning Lab](https://pvl.cs.princeton.edu), and worked with [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) on finding more efficient deep learning architectures.
+Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) Master's degree at [Ecole Polytechnique](https://www.polytechnique.edu), majoring in Mathematics and Computer Science. In 2022, I interned at the [Princeton Vision and Learning Lab](https://pvl.cs.princeton.edu), and worked with [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) on finding more efficient deep learning architectures.
 
 
 
