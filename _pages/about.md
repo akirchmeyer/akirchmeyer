@@ -17,9 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a Master's Student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak). I work on topics related to Computer Vision, Generative Models and Emobodied AI. Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) Master's degree at [Ecole Polytechnique](https://www.polytechnique.edu), majoring in Mathematics and Computer Science and worked with [Prof. Maks Ovsjanikov](https://www.lix.polytechnique.frx/~maks/) on the topic of non-rigid 3D shape correspondence. In 2022, I interned at the [Princeton Vision and Learning Lab](https://pvl.cs.princeton.edu), and worked with [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) on finding more efficient deep learning architectures.
+Hello! I am a research intern at [Cartesia](https://cartesia.ai/) training multimodal foundation models using state-space models. I just finished a Master's degree in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak). 
 
-I am interested in topics related to visual understanding and general-purpose learning algorithms. In particular I am excited about learning controllable representations and exploring deep learning architectures with better reasoning inductive biases. 
+I am interested in topics related to deep learning architectures, multimodal ML and reasoning. In particular I am excited about exploring deep learning architectures with better reasoning inductive biases and training with heteregoneous modalities.
+
+Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) Master's degree at [Ecole Polytechnique](https://www.polytechnique.edu), majoring in Mathematics and Computer Science and worked with [Prof. Maks Ovsjanikov](https://www.lix.polytechnique.frx/~maks/) on the topic of non-rigid 3D shape correspondence. In 2022, I interned at the [Princeton Vision and Learning Lab](https://pvl.cs.princeton.edu), and worked with [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) on finding more efficient deep learning architectures.
+
+
 
 I love problem solving and competitive programming: I was member of the team that [ranked 4th](https://swerc.eu/2020/theme/scoreboard/index.html) in the ACM ICPC Europe Regional competition (SWERC) in 2020/2021, I am in the [top 3%](https://www.mathraining.be/users/363) of a Belgian IMO preparation website, [achieved](http://www.usaco.org/current/data/dec16_gold_results.html) USACO Platinum level, [ranked 8th](https://orac.amt.edu.au/fario/fario17results.html) at the French-Australian Regional Informatics Olympiad (FARIO) and coached for the French [Algorea](https://algorea.org) national algorithmics competition. 
 
