@@ -25,7 +25,7 @@ Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.pol
 
 
 
-I love problem solving and competitive programming: I was member of the team that [ranked 4th](https://swerc.eu/2020/theme/scoreboard/index.html) in the ACM ICPC Europe Regional competition (SWERC) in 2020/2021, I am in the [top 3%](https://www.mathraining.be/users/363) of a Belgian IMO preparation website, [achieved](http://www.usaco.org/current/data/dec16_gold_results.html) USACO Platinum level, [ranked 8th](https://orac.amt.edu.au/fario/fario17results.html) at the French-Australian Regional Informatics Olympiad (FARIO) and coached for the French [Algorea](https://algorea.org) national algorithmics competition. 
+I love problem solving and competitive programming: I was reserve member of the team that [ranked 4th](https://swerc.eu/2020/theme/scoreboard/index.html) in the ACM ICPC Europe Regional competition (SWERC) in 2020/2021, I am in the [top 3%](https://www.mathraining.be/users/363) of a Belgian IMO preparation website, [achieved](http://www.usaco.org/current/data/dec16_gold_results.html) USACO Platinum level, [ranked 8th](https://orac.amt.edu.au/fario/fario17results.html) at the French-Australian Regional Informatics Olympiad (FARIO) and coached for the French [Algorea](https://algorea.org) national algorithmics competition. 
 
 <!-- 
 Some papers I find exciting and would like to explore include: [DreamCoder](https://arxiv.org/abs/2006.08381), [Voyager](https://arxiv.org/abs/2305.16291), [MuZero](https://arxiv.org/abs/1911.08265) and [Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142).
