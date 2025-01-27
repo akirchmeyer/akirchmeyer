@@ -17,13 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a research intern at [Cartesia](https://cartesia.ai/) working on multimodal foundation models using state-space models. I just finished a Master's degree in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak) where I studied how to learn controllable representations from simulators and generative models.
+Hello! I am a 1st year PhD student at Princeton, advised by [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/).
+I am interested in topics related to reasoning and lifelong learning - my research goal is to come up with a learning algorithm that can learn about the world and grow like a human baby would.
 
-I am interested in topics related to reasoning and multimodal ML. In particular I am excited about exploring deep learning architectures with better reasoning inductive biases inspired by program synthesis, and learning controllable representations from multi-modal data.
+I was a research intern at [Cartesia](https://cartesia.ai/), where I worked on training multimodal foundation models using state-space models.
+I have a Master's degree in Machine Learning from [Carnegie Mellon University](https://www.ml.cmu.edu). At CMU, I did research with [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak) on learning controllable representations from robotic simulators and 2D generative models.
 
-Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) Master's degree at [Ecole Polytechnique](https://www.polytechnique.edu), majoring in Mathematics and Computer Science. In 2022, I interned at the [Princeton Vision and Learning Lab](https://pvl.cs.princeton.edu), and worked with [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/) on finding more efficient deep learning architectures.
+Before CMU, I completed the [_Ingénieur Polytechnicien_](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) BEng/MS degree at [Ecole Polytechnique](https://www.polytechnique.edu), majoring in Mathematics and Computer Science. 
 
 I love problem solving and competitive programming: I was reserve member of the team that [ranked 4th](https://swerc.eu/2020/theme/scoreboard/index.html) in the ACM ICPC Europe Regional competition (SWERC) in 2020/2021, I am in the [top 3%](https://www.mathraining.be/users/363) of a Belgian IMO preparation website, [achieved](http://www.usaco.org/current/data/dec16_gold_results.html) USACO Platinum level, [ranked 8th](https://orac.amt.edu.au/fario/fario17results.html) at the French-Australian Regional Informatics Olympiad (FARIO) and coached for the French [Algorea](https://algorea.org) national algorithmics competition. 
+
+I like to challenge myself - I built an electric rocket with 5 other people that I [presented](https://iafastro.directory/iac/paper/id/64940/summary/) to the International Astronautical Congress in 2021, and I spent 1-2 years writing my own 3D RTS [video game](https://bitbucket.org/akirchmeyer/tactics-4/commits/branch/r3) in C++ and OpenGL during my teens.
 
 <!-- 
 Some papers I find exciting and would like to explore include: [DreamCoder](https://arxiv.org/abs/2006.08381), [Voyager](https://arxiv.org/abs/2305.16291), [MuZero](https://arxiv.org/abs/1911.08265) and [Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142).
